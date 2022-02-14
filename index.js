@@ -1,31 +1,31 @@
 <html>
-    <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap" rel="stylesheet"> 
     <title>RileyTheDev</title>
     
-</head>
+    <style>
+        body {
+            font-family: 'Inconsolata', monospace;
+        }
+    </style>
+    
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
 
-<body>
+<body style="margin-left:600;margin-right:600;margin-top:25;font-family:Inconsolata; font-size: 16px;">
 
-    <div class="wrapper">
         <div class="header">
-    <center>
-        <element style="font-family: Inconsolata; font-size: 14px;">
-        <span style="font-size: 30px;">RileyTheDev                </span> <span style="font-size: 20px;"><a href="/me">about</a> <a href="https://github.com/RileyTheDev%22%3Egithub</a></span>
+    
+        <span style="font-size: 30px;">RileyTheDev             </span> <span 
+        
+style="font-size: 20px;"><a href="/me">about</a>  <a href="https://github.com/RileyTheDev">github</a></span>
 
-
-
-</div></center></element>
-
-
-</div></center></element>
+</div>
 
 <div class="blog">
-    <center><element style="font-family: Inconsolata; font-size: 14px;">
-
-    <h1>Blog Posts:</h1>
+    <span style="font-size: 22px;"> Blog Posts:</span>
+    
     <ul>
 
         <li>
@@ -33,21 +33,13 @@
         </li>
 
     </ul>
-</div></center></element>
+</div></element>
 
 <div class="Projects">
-    <center><element style="font-family: Inconsolata; font-size: 14px;">
-
-    <h1>Projects:</h1>
+ 
+      <p>Projects:</p>
+     
     <ul>
 
         <li>
-            <span class="date">August 21, 2021</span> - <a href="https://github.com/RileyTheDev/Panda-Bot%22%3EPanda Bot</a>
-        </li>
-
-    </ul>
-</div></center></element></element>
-
-
-
-</body></html>
+            <span class="date">August 21, 2021</span> - <a href="https://github.com/RileyTheDev/Panda-Bot">Panda Bot</a>
