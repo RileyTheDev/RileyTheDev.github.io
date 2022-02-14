@@ -1,13 +1,10 @@
-<html><head>
+<html>
+    <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <title>RileyTheDev</title>
     
-    <style>
-    @import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700%27);
-    </style>
-
 </head>
 
 <body>
@@ -16,7 +13,7 @@
         <div class="header">
     <center>
         <element style="font-family: Inconsolata; font-size: 14px;">
-        <span style="font-size: 30px;">RileyTheDev‎‎‎‎‎                </span> <span style="font-size: 20px;"><a href="/me">about</a> <a href="https://github.com/RileyTheDev%22%3Egithub</a></span>
+        <span style="font-size: 30px;">RileyTheDev                </span> <span style="font-size: 20px;"><a href="/me">about</a> <a href="https://github.com/RileyTheDev%22%3Egithub</a></span>
 
 
 
