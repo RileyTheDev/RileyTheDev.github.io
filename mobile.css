@@ -3,3 +3,6 @@
   margin-right:150;
   margin-top:75;
 }
+.blog {
+  overflow-wrap: break-word;
+}
